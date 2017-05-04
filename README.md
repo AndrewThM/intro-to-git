@@ -8,4 +8,20 @@
 
 
 # Git Repository
--Where all our snapshots are storedmk
+-Where all our snapshots are stored
+
+# Git Branches
+
+-Listing All Branches
+
+-Adding A Branch
+
+-Changing branches
+
+-Merging a branch
+
+-Removing a branch
+
+         /---0-----0-------0
+        /                 /
+0------0-----0-----0-----0
